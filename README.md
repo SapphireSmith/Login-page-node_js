@@ -9,8 +9,8 @@ Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. ❤️
 
 Note Runing methods..
-localhost:3000/login
-localhost:3000/signup
+localhost:3000/login   ---- for login
+localhost:3000/signup  ---- for signup
 localhost:3000/    ---for home page
 localhost:3000/manual    ---- for manual page
 
