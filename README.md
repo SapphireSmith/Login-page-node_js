@@ -8,6 +8,13 @@ This is a user login and registration app using Node.js, Express, Mongoose, EJS 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. ❤️
 
+Note Runing methods..
+localhost:3000/login
+localhost:3000/signup
+localhost:3000/    ---for home page
+localhost:3000/manual    ---- for manual page
+
+
 Prerequisites
 You need to have installed Node.js, NPM and MongoDB in your System.
 
